@@ -1,11 +1,5 @@
-// if (process.env.NODE_ENV === 'production') {
-//     module.exports = require('./prod');
-// } else {
-//     module.exports = require('./dev');
-// }
-
 module.exports = {
-    MongoDB: 'mongodb+srv://onlineDatingApp:ansari2001@cluster0.ew6if.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',
+    MongoDB: 'mongodb+srv://onlineDatingApp:ansari2001@onlinedatingapp.ew6if.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',
     // FacebookAppID: '1215329305661606',
     // FacebookAppSecret: '0bd546ac1afe8f1b73daaf756e5741f2'
     GoogleClientID: '926211031579-7d7iodufsfrv3d26g2oifa785nrihr1v.apps.googleusercontent.com',
