@@ -7,3 +7,49 @@
 .red {
     color: brown;
 }
+.fa-edit{
+    cursor: pointer;
+    margin-right: 10px;
+}
+a:visited{
+    margin-right: 10px;
+}
+.col-sm-3{
+    margin: 5px 5px 5px 5px;
+}
+.chatroom-users{
+    width: 64px;
+    height: 64x;
+}
+#messages{
+    height: 300px; 
+    overflow-y: scroll;
+}
+.right{
+    float: right;
+}
+.singles-icons{
+    margin-top: 8px;
+}
+.col-sm-3{
+    border: 1px solid black;
+    padding: 5px 5px 5px 5px;
+}
+#main-body{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.btn-google{
+    background: #e44b34;
+    color: #fff;
+    width: auto;
+    border-radius: 0%;
+}
+.btn-google:link,
+.btn-google:visited,
+.btn-google:active,
+.btn-google:hover{
+    color: #fff;
+    background: #e44b34;
+    text-decoration: none;
+}
